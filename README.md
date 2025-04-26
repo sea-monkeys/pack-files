@@ -22,6 +22,6 @@ pack-files -dir=. \
 -include="html,ts,md" \
 -exclude="" \
 -structure=./pack.tree.txt \
--content=./cpack.ontent.txt \
+-content=./pack.content.txt \
 -summary=./pack.summary.txt
 ```
